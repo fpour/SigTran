@@ -1,7 +1,8 @@
 # SigTran: Signature Vectors for Detecting Illicit Activities in Blockchain Transaction Networks
 This repository provides the implementation of **SigTran** as explained in the paper:<br>
 > "SigTran: Signature Vectors for Detecting Illicit Activities in Blockchain Transaction Networks." Farimah Poursafaei, Reihaneh Rabbany, and Zeljko Zilic. _The 25th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD-2021)_, 2021.<br>
-> The paper can be found [here](http://www.reirab.com/research/Papers/SigTran2021.pdf)
+
+The paper can be found [here](http://www.reirab.com/research/Papers/SigTran2021.pdf)
 
 ## Overview
 This repository contains the implementation code of SigTran which is an _efficient_ graph-based method for detecting illicit nodes on blockchain networks. Please refer to our paper for more details. 
