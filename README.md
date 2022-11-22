@@ -13,3 +13,18 @@ We conducted our experiments on two public datasets including transaction histor
 ## Acknowledgement
 We would like to thank the authors of [RiWalk](https://github.com/maxuewei2/RiWalk) and [node2vec](https://github.com/aditya-grover/node2vec)
 for providing open access to the implementation of their methods.
+
+
+## Citation
+If this work is useful for your research, please cite us:
+
+```bibtex
+@inproceedings{sigtran_pakdd_2021,
+  title={SigTran: Signature Vectors for Detecting Illicit Activities in Blockchain Transaction Networks},
+  author={Poursafaei, Farimah and Rabbany, Reihaneh and Zilic, Zeljko},
+  booktitle={Pacific-Asia Conference on Knowledge Discovery and Data Mining},
+  pages={27--39},
+  year={2021},
+  organization={Springer}
+}
+```
